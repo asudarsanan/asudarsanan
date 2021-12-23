@@ -5,7 +5,8 @@
 I work as a DevOps Engineer. I´m based in Bangalore, India.
 
 Since 2018 i have been working with development teams in automating build deployment and release process for advanced enterprise applications and creating reliable pipeline models for easing deployments. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation and open-source toolings ✨😍
-### What am I working on 👨‍💻
+
+### Things I work with. 👨‍💻
 
 I have explored a wide set of cloud resources and come up with automation solution for provisioning of Infrastructure through scripts and Terraform projects.
 
