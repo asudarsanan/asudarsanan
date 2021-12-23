@@ -4,13 +4,19 @@
 
 I work as a DevOps Engineer. I´m based in Bangalore, India.
 
-Since 2018 i have been working with development teams in automating build deployment and release process advanced enterprise applications and creating reliable pipeline models for easing deployments. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation and open-source toolings ✨😍
+Since 2018 i have been working with development teams in automating build deployment and release process for advanced enterprise applications and creating reliable pipeline models for easing deployments. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation and open-source toolings ✨😍
+### What am I working on 👨‍💻
+
+I have explored a wide set of cloud resources and come up with automation solution for provisioning of Infrastructure through scripts and Terraform projects.
+
+Pipelining deployement process excites me, I have developed few open-source solutions in dockerizing various stages with in pipeline rooting to a concept of dockized pipelines, reducing dependency in learning and working with devops tooling and decoupling pipeline stages such as Code Analysis and Testing from automation servers.
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my cloud knowledge and skills: AWS, GCP and services like Amazon EKS.<br />
+I am in a journey to undertand the deeper construction and implementation of advanced k8 clustering in various environments including differenert cloud native k8 solutions.
+Learing the more advanced concepts of sercurity testing and ways for incoprating it into devops process. Looking for a technical transition into reliablity and observability related technologies.
 
-
+<br />
 
 ### Find me elsewhere 🌎
 
