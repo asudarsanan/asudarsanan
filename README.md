@@ -1,4 +1,4 @@
-[![Header](https://github.com/asudarsanan/asudarsanan/blob/main/2.jpg "Header")](https://www.linkedin.com/in/aasishsudarsanan/)
+[![Header](https://www.canva.com/design/DAFDaePe7KM/VYjFooetKp5xLZ4L_-Lw6Q/view?utm_content=DAFDaePe7KM&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish "Header")](https://www.linkedin.com/in/aasishsudarsanan/)
 	
 ### Hello, I'm Aasish Sudarsanan!
 
