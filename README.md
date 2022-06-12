@@ -1,6 +1,6 @@
 [![Header](https://github.com/asudarsanan/asudarsanan/blob/main/2.jpg "Header")](https://www.linkedin.com/in/aasishsudarsanan/)
 	
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hello, I'm Aasish Sudarsanan!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Hello, I'm Aasish Sudarsanan!
 
 I work as a DevOps Engineer. I´m based in Bangalore, India.
 
