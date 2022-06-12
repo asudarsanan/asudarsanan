@@ -2,7 +2,7 @@
 	
 ### Hello, I'm Aasish Sudarsanan!
 
-I work as a DevOps Engineer. I´m based in Bangalore, India.
+I work as a Site Reliability Engineer, based in Bangalore, India.
 
 Since 2018 i have been working with development teams in automating build deployment and release process for advanced enterprise applications and creating reliable pipeline models for easing deployments. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through automation and open-source toolings ✨😍
 
