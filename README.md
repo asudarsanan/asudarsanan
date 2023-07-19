@@ -1,5 +1,4 @@
-[![Header](https://github.com/asudarsanan/asudarsanan/blob/6f2c134458f557d5d491afeaa3eec32c6a32d543/Aasish%20Sudarsanan.png "Header")](https://www.linkedin.com/in/aasishsudarsanan/)
-	
+
 Greetings, marvelous minds of the digital realm! 🌟
 
 I am Aasish Sudarsanan, a passionate and diligent Site Reliability Engineer based in the bustling city of Bangalore, India. With a heart brimming with curiosity and a soul enchanted by technology, I've immersed myself in a magical world of possibilities.
